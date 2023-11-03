@@ -1,6 +1,6 @@
 # Multiplayer Pong Game
 
-**Live Demo**: Live Project on Google Cloud https://pingpong-agvfzimtiq-em.a.run.app (note: reqire two clients or tabs to start the game)
+**Live Demo**: Live Project on Google Cloud https://pingpong-agvfzimtiq-em.a.run.app (note: require two clients or tabs to start the game)
 
 ## Overview
 
